@@ -2,7 +2,7 @@
 ±âº»¸µÅ©
 --------------------------------------------------------------------------- */
 A:link, A:active, A:visited {color: #8f8d8d; text-decoration: none;}
-A:hover {color:#f073ae; text-decoration: none;text-decoration: none;}
+A:hover {color:#6A7BB3; text-decoration: none;text-decoration: none;}
 
 
 /* ---------------------------------------------------------------------------
@@ -12,11 +12,11 @@ Top ¸Þ´º
 a.navi:link{font-size: 13x; color:#3f3f3f;text-decoration:none;font-weight: bold;}
 a.navi:visited{font-size: 13px;color:#3f3f3f;text-decoration:none;font-weight: bold;}
 a.navi:active{font-size: 13px;color:#3f3f3f;text-decoration:none;font-weight: bold;}
-a.navi:hover{font-size: 13px;color:#c93279;text-decoration:none;font-weight: bold;}
+a.navi:hover{font-size: 13px;color:#6A7BB3;text-decoration:none;font-weight: bold;}
 
 .global { width:250px; height:13; padding-right:10px;}
 
-.main_color  { background:#f073ae; }
+.main_color  { background:#6A7BB3; }
 
 
 /* ---------------------------------------------------------------------------
@@ -24,13 +24,13 @@ a.navi:hover{font-size: 13px;color:#c93279;text-decoration:none;font-weight: bol
 --------------------------------------------------------------------------- */
 /* ¸ÞÀÎ °øÁö»çÇ× */
 .notice_line { height:24px; background:url(../images/lib/main_board/dotline.gif) bottom repeat-x;}
-.notice_teb {border-bottom:3 solid #f073ae; }
+.notice_teb {border-bottom:3 solid #6A7BB3; }
 
 .notice{font-size: 11px;color:#8f8d8d;text-decoration:none;}
 a.notice:link{font-size: 11px;color:#8f8d8d;text-decoration:none;}
 a.notice:visited{font-size: 11px;color:#8f8d8d;text-decoration:none;}
 a.notice:active{font-size: 11px;color:#8f8d8d;text-decoration:none;}
-a.notice:hover{font-size: 11px;color:#f073ae;text-decoration:none;}
+a.notice:hover{font-size: 11px;color:#6A7BB3;text-decoration:none;}
 
 /* ¸ÞÀÎ °øÁö»çÇ× teb */
 .teb_bg_on	{width:77px; height:27px; background:url(../images/lib/main_board/notice_bg_on.gif) no-repeat; text-align:center; padding-top:5px;}
@@ -49,11 +49,11 @@ a.teb_off:hover{font-size: 11px;color:#ffffff;text-decoration:none;font-weight: 
 
 
 /* ¸ÞÀÎ Æ÷Åä°¶·¯¸® */
-.gallery{font-size: 11px;color:#f073ae;text-decoration:none;font-weight: bold;}
-a.gallery:link{font-size: 11px;color:#f073ae;text-decoration:none;font-weight: bold;}
-a.gallery:visited{font-size: 11px;color:#f073ae;text-decoration:none;font-weight: bold;}
-a.gallery:active{font-size: 11px;color:#f073ae;text-decoration:none;font-weight: bold;}
-a.gallery:hover{font-size: 11px;color:#f073ae;text-decoration:underline;font-weight: bold;}
+.gallery{font-size: 11px;color:#6A7BB3;text-decoration:none;font-weight: bold;}
+a.gallery:link{font-size: 11px;color:#6A7BB3;text-decoration:none;font-weight: bold;}
+a.gallery:visited{font-size: 11px;color:#6A7BB3;text-decoration:none;font-weight: bold;}
+a.gallery:active{font-size: 11px;color:#6A7BB3;text-decoration:none;font-weight: bold;}
+a.gallery:hover{font-size: 11px;color:#6A7BB3;text-decoration:underline;font-weight: bold;}
 
 /* ¸ÞÀÎ ÇÐ»çÀÏÁ¤ */
 .schedule_tit {font-size: 11px; color:#3c95b7; font-weight: bold;}
@@ -75,7 +75,7 @@ table.schedule td { border-top: 1px solid #e2e2e2; line-height: 15px; font-size:
 a.left:link{font-size: 13x; color:#3f3f3f;text-decoration:none;font-weight: bold;}
 a.lefti:visited{font-size: 13px;color:#3f3f3f;text-decoration:none;font-weight: bold;}
 a.left:active{font-size: 13px;color:#3f3f3f;text-decoration:none;font-weight: bold;}
-a.left:hover{font-size: 13px;color:#c93279;text-decoration:none;font-weight: bold;}
+a.left:hover{font-size: 13px;color:#6A7BB3;text-decoration:none;font-weight: bold;}
 
 /* ¼­ºê Å¸ÀÌÆ²¹Ù */
 .title_bar { border-top:3px solid #f1a5c9; border-bottom:3px solid #f1a5c9;}
@@ -83,7 +83,7 @@ a.left:hover{font-size: 13px;color:#c93279;text-decoration:none;font-weight: bol
 /* ¼­ºê ÄÁÅÙÃ÷ */
 .content_box { border-left:3px solid #f2f2f2; border-right:3px solid #f2f2f2;}
 
-.font_s_location {font-size: 11px; color:#c93279;}
-.font_tit_b {font-size: 12px; color:#c93279;font-weight: bold;}
-.font_tit2_b {font-size: 12px; color:#f073ae; font-weight: bold;}
+.font_s_location {font-size: 11px; color:#6A7BB3;}
+.font_tit_b {font-size: 12px; color:#6A7BB3;font-weight: bold;}
+.font_tit2_b {font-size: 12px; color:#6A7BB3; font-weight: bold;}
 
