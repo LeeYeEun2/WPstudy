@@ -1,0 +1,50 @@
+﻿/* ---------------------------------------------------------------------------
+°øÅë
+--------------------------------------------------------------------------- */
+BODY { margin: 13px 0px 0px 30px }
+IMG {border:none}
+
+TABLE, TD, INPUT, SELECT, TEXTAREA
+{
+	font-family: µ¸¿ò,dotum,tahoma,Seoul,;
+	font-size: 12px;
+	color: #8f8d8d;
+	letter-spacing:-0.5px;
+	line-height: 1.4;
+}
+
+
+/* input   */
+.input_box {
+	font-size: 11px;
+	border: 1px solid #dddddd;
+	background-color: FFFFFF;
+	height:18;
+	}
+
+.input_txt {
+	scrollbar-face-color: #E5E5E5;
+	scrollbar-shadow-color: #E5E5E5;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-3dlight-color: #E7E7E7;
+	scrollbar-darkshadow-color: #E2E2E2;
+	scrollbar-track-color: #F3F3F3;
+	scrollbar-arrow-color: #949494;
+
+	border-top:1 solid #D0CCCC; 
+	border-left:1 solid #D0CCCC; 
+	border-right:1 solid #D0CCCC; 
+	border-bottom:1 solid #D0CCCC; 
+	background-color:#fbfbfb; 
+	color:#818181;
+	}
+
+/* fotter  */
+.footer { border-right:7px solid #f2f2f2; border-left:7px solid #f2f2f2;}
+
+/* font  */
+.font_s {font-size: 11px; color:#8f8d8d;}
+.font_s_bl {font-size: 11px; color:#3c95b7; }
+.font_s_bl_b {font-size: 11px; color:#3c95b7; font-weight: bold;}
+.font_s_or {font-size: 11px; color:#ff6815; }
+
